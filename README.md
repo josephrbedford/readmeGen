@@ -1,15 +1,16 @@
-# dfgfdgd
-[Github license](https://img.shields.io/badge/license/license-MIT-blue.svg)
+# readmeGen
+[Github license](https://img.shields.io/badge/license/license-NONE-blue.svg)
 
 ## Description
 
-fewfewf
+A readme generator to automate and simplify the process of generating a readme markdown file.
 
 ## Table of Contents
 
 * [Installation](#installation)
 
 * [Usage](#usage)
+
 
 * [License](#license)
 
@@ -22,23 +23,24 @@ fewfewf
 
 To install dependencies, run this command:
 
-npm i
+npm -i inquirer@8.2.4
 
 ## Usage
 
-dsfserw4
+run node index.js
 
 ## License
     
-  This project is licensed under MIT
+  This project is licensed under NONE
 
 ## Contributing
 
-sdgrthy
+No contributions at this time
 
 Run this command for tests:
-dsfsfgew
+
+Not applicable.
 
 ## Questions
 
-For questions about the repo, open an issue or contact me at ewfwefw. More of my work can be found at [wefew](https://github.com/undefined/).
+For questions about the repo, open an issue or contact me at none. More of my work can be found at [josephrbedford](https://github.com/josephrbedford/).

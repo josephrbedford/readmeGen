@@ -41,6 +41,7 @@ ${data.desc}
 * [Installation](#installation)
 
 * [Usage](#usage)
+
 ${renderLicenseLink(data.license)}
 
 * [Contributing](#contributing)
@@ -64,11 +65,12 @@ ${renderLicenseSection(data.license)}
 ${data.contrib}
 
 Run this command for tests:
+
 ${data.testIns}
 
 ## Questions
 
-For questions about the repo, open an issue or contact me at ${data.email}. More of my work can be found at [${data.user}](https://github.com/${data.github}/).
+For questions about the repo, open an issue or contact me at ${data.email}. More of my work can be found at [${data.user}](https://github.com/${data.user}/).
 `;
 }
 
