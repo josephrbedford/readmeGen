@@ -64,7 +64,7 @@ ${renderLicenseSection(data.license)}
 
 ${data.contrib}
 
-Run this command for tests:
+## Tests
 
 ${data.testIns}
 

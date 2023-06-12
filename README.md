@@ -37,7 +37,7 @@ run node index.js
 
 No contributions at this time
 
-Run this command for tests:
+## Tests
 
 Not applicable.
 
