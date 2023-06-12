@@ -1,9 +1,9 @@
-# readmeGen
-[Github license](https://img.shields.io/badge/license/license-NONE-blue.svg)
+# dfs
+[Github license](https://img.shields.io/badge/license/license-MIT-blue.svg)
 
 ## Description
 
-A readme generator to automate and simplify the process of generating a readme markdown file.
+sdf
 
 ## Table of Contents
 
@@ -23,24 +23,24 @@ A readme generator to automate and simplify the process of generating a readme m
 
 To install dependencies, run this command:
 
-npm -i inquirer@8.2.4
+sdf
 
 ## Usage
 
-run node index.js
+sdf
 
 ## License
     
-  This project is licensed under NONE
+  This project is licensed under MIT
 
 ## Contributing
 
-No contributions at this time
+sdf
 
-Run this command for tests:
+## Run this command for tests
 
-Not applicable.
+sdf
 
 ## Questions
 
-For questions about the repo, open an issue or contact me at none. More of my work can be found at [josephrbedford](https://github.com/josephrbedford/).
+For questions about the repo, open an issue or contact me at sdf. More of my work can be found at [sdf](https://github.com/sdf/).
